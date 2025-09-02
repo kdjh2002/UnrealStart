@@ -21,8 +21,6 @@
 #include <iostream> //입출력 관련(cout)
 #include <stdio.h> // stdio.h에 네임스페이스 추가한 래퍼
 #include <cstdio> 
-#include "header.h"
-
 //using namespace std;
 
  int main() {
